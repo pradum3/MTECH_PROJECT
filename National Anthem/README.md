@@ -1,4 +1,4 @@
-# MTECH_PROJECT
+# National Anthem
 
 The project aims to classify national anthems of different countries into different clusters using the Python programming language. National anthems are an important cultural aspect of a country, and by clustering them together, we can gain insights into the similarities and differences between them.
 
